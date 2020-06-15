@@ -1,0 +1,65 @@
+#bis{
+    background-color:rgb(85, 226, 236);
+    height:600px;
+}
+
+#dis{
+    background-color:rgb(161, 211, 120);
+    height:600px;
+}
+
+.para{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+h1{
+    text-align: center;
+}
+
+/* #dis{
+    position:relative;
+ } */
+.btn-danger{
+    margin-left: 300px;
+
+    width: 100px;
+
+}
+.btn-success{
+    margin-left: 300px;
+
+    width: 100px;
+
+}
+.total{
+    margin-top: 50px;
+    text-align: center;
+    text-decoration: solid;
+    font-size: larger;
+    font-weight: 800;
+}
+h3{
+    text-align: center;
+    color:red;
+
+}
+
+#hi{
+    text-align: center;
+    margin-top:150px;
+    font-size: 100px;
+}
+
+#alrt{
+    width:1000px;
+    margin-left:200px;
+}
+
+#empty{
+    font-size: 100px;
+}
+
+
+
+
