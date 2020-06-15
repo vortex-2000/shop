@@ -3,7 +3,7 @@
 WHEN THE SITE IS OPENED:
 ![img1](https://user-images.githubusercontent.com/53625125/84620941-f2fbd680-aef6-11ea-8aa8-bb308d843800.png)
 
-WHEN ALL CONTENTS ARE ADDED/REMOVED:
+WHEN CONTENTS ARE ADDED/REMOVED:
 ![img4](https://user-images.githubusercontent.com/53625125/84620997-132b9580-aef7-11ea-9519-cd3f71f780c5.png)
 
 
